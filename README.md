@@ -31,7 +31,7 @@ conda create -n spgnet python=3.7 anaconda
 source activate spgnet
 
 # 2. Install dependency
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Data Preparation
